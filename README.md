@@ -39,6 +39,19 @@
 | **OpenAI Chat Model** | Подключает языковую модель GPT |
 | **Send Message** | Отправляет ответ обратно в Telegram |
 
+---
+
+## 📦 Артефакты проекта
+
+| Файл | Назначение |
+|------|------------|
+| **📄 Workflow** | |
+| [`n8n_telegram_ai_template.json`](n8n_telegram_ai_template.json) | Основной workflow для n8n |
+| **📄 Документация** | |
+| [`system_prompt.txt`](system_prompt.txt) | Системный промпт для AI Agent |
+| **🖼️ Изображения** | |
+| [`n8n-workflow-preview.jpg`](n8n-workflow-preview.jpg) | Скриншот структуры workflow |
+| [`bot-conversation-example.jpg`](bot-conversation-example.jpg) | Пример диалога с ботом |
 
 ---
 
