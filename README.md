@@ -27,7 +27,7 @@
 
 ## 🗺️ Структура
 
-![n8n Workflow Preview](screenshots/n8n-workflow-preview.jpg)
+![n8n Workflow Preview](n8n-workflow-preview.jpg)
 
 ### Компоненты:
 
