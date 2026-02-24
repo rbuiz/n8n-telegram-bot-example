@@ -1,2 +1,30 @@
 # n8n-telegram-bot-example
+
 🤖 Пример Telegram бота на n8n с искусственным интеллектом. Бот выступает в роли консультанта и помогает подбирать курсы (на примере школы выпечки блинов). Показывает интеграцию Telegram + OpenAI + LangChain, работу с памятью диалогов и системным промптом. Используйте как шаблон для своих проектов — просто замените промпт и каталог!
+
+<div align="center">
+  <img src="https://img.shields.io/badge/n8n-example-blue?style=for-the-badge&logo=n8n" alt="n8n">
+  <img src="https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
+  <img src="https://img.shields.io/badge/OpenAI-Integration-412991?style=for-the-badge&logo=openai" alt="OpenAI">
+  <img src="https://img.shields.io/badge/LangChain-Example-1C3C3C?style=for-the-badge&logo=langchain" alt="LangChain">
+</div>
+
+---
+
+## 📋 О проекте
+
+Этот репозиторий содержит готовый шаблон n8n workflow для создания Telegram бота с AI-агентом. Бот помогает пользователям подобрать идеальный курс по выпечке блинов, учитывая их уровень подготовки и цели.
+
+### ✨ Возможности
+
+- 🧠 **AI диалоги** — использует OpenAI GPT
+- 📊 **Определение уровня** — от новичка до профи
+- 🎯 **Выявление целевых клиентов** — кто готов купить
+- 📚 **Рекомендации курсов** — из 5 программ
+- 💬 **Работа с возражениями** — о цене и сложности
+- 🧠 **Память диалога** — помнит контекст
+
+---
+
+## 🗺️ Структура
+
