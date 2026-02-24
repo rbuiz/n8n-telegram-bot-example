@@ -121,7 +121,19 @@
 
 ---
 
-Хотите увидеть больше примеров? Запустите бота и напишите ему! 👇
+## ⭐ Поддержка
+
+Если проект полезен — поставьте звезду на GitHub! ⭐
+
+---
+
+<div align="center">
+  <a href="https://github.com/yourusername/n8n-telegram-bot-example">🔗 GitHub</a>
+  •
+  <a href="https://t.me/yourusername">📬 Telegram</a>
+  •
+  <a href="https://forum.n8n.io/">💬 n8n Community</a>
+</div>
 
 
 
